@@ -1,0 +1,1 @@
+This is the polybar configuration that is present in Peux LXQt 21.01. This will only copy the configuration to the "~/.config/polybar/" folder. You will have to manually configure the path according to your needs. The repository can be found at https://github.com/peux-os-sic/Peux-LXQt-Poly-v1.
